@@ -17,11 +17,11 @@ It is a Spring Boot Application that exposes a Rest API service
 #Software Prerequisite
 
 Java 8
-Intellij Idea IDE
+Spring Tool Suite
 
 #Open Project
 
-File -> Open -> robotic-hoover in IDE to open project
+File -> Import ->Check out Maven Projects from SCM->git url-> robotic-hoover in IDE to open project
 
 # To start the application
 
